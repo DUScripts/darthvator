@@ -1573,12 +1573,6 @@ function DV.new(system, core, unit, construct, player, screen, telemeter, databa
 
     self:readFloors()
     
-    -- self.engineAllowed = {
-    --     "enginesmall",
-    --     "enginemedium"
-    -- }
-    --self:checkSetup()
-
     -- input handling ------------------------------------
     self.input = {
         yawleft = {
