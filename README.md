@@ -10,6 +10,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 - This software is released for use on NON-DRM constructs under the GNU General Public Licence.
 - Under this licence, it may be used on NON-DRM constructs on the MMO DU server, and on private MyDU servers.
 - This software is NOT licenced for use on DRM constructs, on any DU or MyDU server.
+- ADDENDUM TO LICENCE: Whilst taking my code and posting it on some other website would not be against the licence terms, it would be against my express wishes. Which would make you a bit of an arse.
 
 # Installation
 ## ship elements:
