@@ -15,7 +15,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 GITHUB is the only official distribution channel for this code.
 All bug fixes, feature updates and other modifications are posted to GitHub immediately.
 Since the author does not provide updates through any other source, you download code from other sources at your own risk.
-Code downloaded from GitHub updated with the latest fixes and features and it's integrity is regularly checked.
+Code downloaded from GitHub is updated with the latest fixes and features and its integrity is regularly checked.
 Code downloaded from other sources is very likely to be outdated, and potentially subject to manipulation/modification.
 
 # Installation
