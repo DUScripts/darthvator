@@ -12,6 +12,12 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 - This software is NOT licenced for use on DRM constructs, on any DU or MyDU server.
 - ADDENDUM TO LICENCE: Whilst taking my code and posting it on some other website would not be against the licence terms, it would be against my express wishes. Which would make you a bit of an arse.
 
+GITHUB is the only official distribution channel for this code.
+All bug fixes, feature updates and other modifications are posted to GitHub immediately.
+Since the author does not provide updates through any other source, you download code from other sources at your own risk.
+Code downloaded from GitHub updated with the latest fixes and features and it's integrity is regularly checked.
+Code downloaded from other sources is very likely to be outdated, and potentially subject to manipulation/modification.
+
 # Installation
 ## ship elements:
 - __remote control__ __[necessary]__ _or any other control unit_
