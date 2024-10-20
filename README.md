@@ -7,7 +7,7 @@ Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
-You can use this for whatever you wish. Have fun, enjoy, share, Make it better if you can.
+**You can use this for whatever you wish. Have fun, enjoy, share, Make it better if you can.**
 
 # Installation
 ## ship elements:
